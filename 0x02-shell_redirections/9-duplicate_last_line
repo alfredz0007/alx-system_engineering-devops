@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -1f 9-duplicate_last_line
+tail -10f 9-duplicate_last_line
