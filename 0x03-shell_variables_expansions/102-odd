@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -f 102-odd
