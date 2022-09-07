@@ -1,0 +1,2 @@
+#!/bin/bash
+printf -v foo "%d" $((16#BEEF)); echo $foo
