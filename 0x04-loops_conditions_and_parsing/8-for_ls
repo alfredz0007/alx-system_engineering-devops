@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-#The script lists files
-for i in *
-do
-    echo "$i" | cut -f 2- -d '-'
-done
