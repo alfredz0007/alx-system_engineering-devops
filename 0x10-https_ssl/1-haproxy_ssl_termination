@@ -1,0 +1,4 @@
+global
+        log /dev/log    
+        local0
+    
