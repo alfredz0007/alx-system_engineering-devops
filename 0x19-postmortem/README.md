@@ -1,8 +1,8 @@
 Postmortem: Calculator Compiler Outage
 Issue Summary:
 - Duration:
-  - Start Time: February 10, 2024, 11:00 AM EAT
-  - End Time: February 10, 2024, 1:00 PM EAT
+  - Start Time: January 13, 2024, 11:00 AM EAT
+  - End Time: January 13, 2024, 1:00 PM EAT
 - Impact:
   - The outage affected the parsing and evaluation of mathematical expressions, causing incorrect results and runtime errors for approximately 20% of users.
 - Root Cause:
